@@ -1,2 +1,2 @@
-import * as React from "react";
-export * from "./Button";
+// atomic components
+export * from "./atoms/Button";
